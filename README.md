@@ -41,9 +41,13 @@ This project was done by me as a assignment for an internship.
     <li>Pillow</li>
 </ul>
   
-<h2>Note :</h2>
+<h2> Additional Python Modules Required: </h2>
 
-<b>The Secret_Key required for the execution and debugging of project is not removed from the project code. So you can use the project as your college mini-project or by using the project code you can build your own project.</b>
+python3 -m pip install –-user Django
+
+python3 -m pip install –-user django-crispy-forms
+
+python3 -m pip install –-user Pillow
 
 <h2>Usage :</h2>
 
@@ -55,15 +59,5 @@ This project was done by me as a assignment for an internship.
     
    In your web browser enter the address : http://localhost:8000 or http://127.0.0.1:8000/
 
-# Working:
-[![Watch the video](https://img.youtube.com/vi/qIK-vfTig6c/0.jpg)](https://youtu.be/qIK-vfTig6c)
 
-# Screenshots : 
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_36.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_51.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_14_44.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_15_47.png" height="400" width="800">
-<img src="Screenshots/New Tab - Google Chrome 03-12-2019 19_16_14.png" height="400" width="800">
-<img src="Screenshots/Django WebApp - Google Chrome 04-12-2019 13_41_50.png" height="400" width="800">
-<img src="Screenshots/Django WebApp - Google Chrome 03-12-2019 20_48_45.png" height="400" width="800">
 
