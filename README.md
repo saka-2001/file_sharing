@@ -43,11 +43,11 @@ This project was done by me as a assignment for an internship.
   
 <h2> Additional Python Modules Required: </h2>
 
-python3 -m pip install –-user Django
+    python3 -m pip install –-user Django
 
-python3 -m pip install –-user django-crispy-forms
+    python3 -m pip install –-user django-crispy-forms
 
-python3 -m pip install –-user Pillow
+    python3 -m pip install –-user Pillow
 
 <h2>Usage :</h2>
 
